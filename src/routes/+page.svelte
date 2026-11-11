@@ -274,7 +274,7 @@
 <svelte:window onpointerdown={cerrarAlPulsarFuera} onkeydown={cerrarConEscape} />
 <div class="app-layout">
     <aside class="sidebar">
-        <h2>Consultorio</h2>
+        <h2>Auro Consultorio</h2>
         <p>Panel de gestion</p>
         
         <nav aria-label="Menu principal">
@@ -285,7 +285,7 @@
     </aside>
     <main class="contenido">
 
-<h1> Consultorio - Agenda de turnos</h1>
+<h1> Auro Consultorio - Agenda de turnos</h1>
 
 <button
     type="button"

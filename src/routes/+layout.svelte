@@ -6,6 +6,8 @@
 </script>
 
 <svelte:head>
+	<title>Auro Consultorio | Demo</title>
+	<meta name="description" content="Prototipo de agenda para consultorio con datos ficticios." />
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
